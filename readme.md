@@ -1,5 +1,5 @@
 # Resource Viewer
-## Simple project to help with learning rus
+## Simple project to help with learning rust
 
 <img src="assets/demo.gif" alt="Demo recording"/>
 
